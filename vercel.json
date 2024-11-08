@@ -1,0 +1,7 @@
+{
+    "rootDirectory": "markdown-editor",
+    "buildCommand": "npm run build",
+    "installCommand": "npm install",
+    "outputDirectory": "build"
+  }
+  
